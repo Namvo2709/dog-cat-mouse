@@ -13,3 +13,7 @@ git repository
 
 git checkout
 git reset
+
+git checkout -b <branch> (branching)
+git checkout <branch>
+git merge
